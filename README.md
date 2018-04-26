@@ -1,1 +1,3 @@
 # DotNetReferences
+* Xamarin.Forms
+* DotNet
