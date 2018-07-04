@@ -4,4 +4,4 @@
   * [B Xamarin.Forms Reference List - Interface Designer And Libraries](https://github.com/benoitjadinon/awesome-xamarin/blob/master/README.md)
 * DotNet
  * [NReco Libraries](https://www.nrecosite.com)
- * [Microcharts] (https://github.com/aloisdeniel/Microcharts)
+ * [Microcharts](https://github.com/aloisdeniel/Microcharts)
