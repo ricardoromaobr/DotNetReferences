@@ -5,3 +5,9 @@
 * DotNet
  * [NReco Libraries](https://www.nrecosite.com)
  * [Microcharts](https://github.com/aloisdeniel/Microcharts)
+
+
+# Windows Variables
+
+* Variables 
+  * [Windows variables](https://ss64.com/nt/syntax-variables.html)
