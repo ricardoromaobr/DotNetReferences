@@ -6,7 +6,7 @@
 * DotNet
  * [NReco Libraries](https://www.nrecosite.com)
  * [Microcharts](https://github.com/aloisdeniel/Microcharts)
- * [Biblioteca Execel](http://spreadsheetlight.com/developers)
+ * [Biblioteca Excel](http://spreadsheetlight.com/developers)
  
 # Windows Variables
 
