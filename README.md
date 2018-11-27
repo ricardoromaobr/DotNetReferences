@@ -12,3 +12,8 @@
 
 * Variables 
   * [Windows variables](https://ss64.com/nt/syntax-variables.html)
+
+# REDE
+
+* Classes de Rede
+  * [Ipv4 classes](https://www.tutorialspoint.com/ipv4/ipv4_address_classes.htm)
