@@ -21,5 +21,5 @@
 # Azure References 
 
 * Azure App Services
-  *[Deep into Web App Services mva](https://mva.microsoft.com/en-us/training-courses/deep-dive-into-azure-app-service-a-platform-to-build-modern-applications-16828?l=YNraRQR4C_604668937)
+  * [Deep into Web App Services mva](https://mva.microsoft.com/en-us/training-courses/deep-dive-into-azure-app-service-a-platform-to-build-modern-applications-16828?l=YNraRQR4C_604668937)
 
