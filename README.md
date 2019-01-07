@@ -17,3 +17,9 @@
 
 * Classes de Rede
   * [Ipv4 classes](https://www.tutorialspoint.com/ipv4/ipv4_address_classes.htm)
+  
+# Azure References 
+
+* Azure App Services
+  *[Deep into Web App Services mva](https://mva.microsoft.com/en-us/training-courses/deep-dive-into-azure-app-service-a-platform-to-build-modern-applications-16828?l=YNraRQR4C_604668937)
+
