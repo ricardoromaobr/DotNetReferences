@@ -8,6 +8,8 @@
  * [Microcharts](https://github.com/aloisdeniel/Microcharts)
  * [Biblioteca Excel](http://spreadsheetlight.com/developers)
  
+* Nhibernate
+  * [QueryOver Series](http://www.andrewwhitaker.com/queryover-series)
 # Windows Variables
 
 * Variables 
