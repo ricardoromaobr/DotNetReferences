@@ -7,6 +7,7 @@
  * [NReco Libraries](https://www.nrecosite.com)
  * [Microcharts](https://github.com/aloisdeniel/Microcharts)
  * [Biblioteca Excel](http://spreadsheetlight.com/developers)
+ * [Generics Refletions](https://docs.microsoft.com/pt-br/dotnet/framework/reflection-and-codedom/how-to-examine-and-instantiate-generic-types-with-reflection)
  
 * Nhibernate
   * [QueryOver Series](http://www.andrewwhitaker.com/queryover-series)
