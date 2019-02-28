@@ -4,16 +4,16 @@
   * [B Xamarin.Forms Reference List - Interface Designer And Libraries](https://github.com/benoitjadinon/awesome-xamarin/blob/master/README.md)
   * [Custom Material components](https://github.com/SuavePirate/MaterialEntry)
 * DotNet
- * [NReco Libraries](https://www.nrecosite.com)
- * [Microcharts](https://github.com/aloisdeniel/Microcharts)
- * [Biblioteca Excel](http://spreadsheetlight.com/developers)
- * [Generics Refletions](https://docs.microsoft.com/pt-br/dotnet/framework/reflection-and-codedom/how-to-examine-and-instantiate-generic-types-with-reflection)
+  * [NReco Libraries](https://www.nrecosite.com)
+  * [Microcharts](https://github.com/aloisdeniel/Microcharts)
+  * [Biblioteca Excel](http://spreadsheetlight.com/developers)
+  * [Generics Refletions](https://docs.microsoft.com/pt-br/dotnet/framework/reflection-and-codedom/how-to-examine-and-instantiate-generic-types-with-reflection)
  * [Building Linq Provider](https://blogs.msdn.microsoft.com/mattwar/2007/07/30/linq-building-an-iqueryable-provider-part-i/)
  
 * Nhibernate
   * [QueryOver Series](http://www.andrewwhitaker.com/queryover-series)
 * Refactory and Design Patterns
-  * [](https://refactoring.guru)
+  * [refatory.guru](https://refactoring.guru)
   
 # Windows Variables
 
