@@ -13,7 +13,7 @@
 * Nhibernate
   * [QueryOver Series](http://www.andrewwhitaker.com/queryover-series)
 * Refactory and Design Patterns
-  * [refatory.guru](https://refactoring.guru)
+  * [refactoring.guru](https://refactoring.guru)
   
 # Windows Variables
 
