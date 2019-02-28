@@ -14,7 +14,7 @@
   * [QueryOver Series](http://www.andrewwhitaker.com/queryover-series)
   
 * EntityFramework
-  * (Entity Framework 4 – Entity Dependency Injection)[https://rogerjohansson.blog/2009/05/30/entity-framework-4-entity-dependency-injection/]
+  * [Entity Framework 4 – Entity Dependency Injection](https://rogerjohansson.blog/2009/05/30/entity-framework-4-entity-dependency-injection/)
 * Refactory and Design Patterns
   * [refactoring.guru](https://refactoring.guru)
   
