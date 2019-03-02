@@ -38,5 +38,6 @@
   
 # Javascript Library
   * [lobilist](https://lobianijs.com)
+  * [jsPanel](https://jspanel.de/index.html)
   
 
