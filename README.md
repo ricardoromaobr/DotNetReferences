@@ -12,6 +12,7 @@
  
 * Nhibernate
   * [QueryOver Series](http://www.andrewwhitaker.com/queryover-series)
+  * [Entity Dependency Inject](https://stackoverflow.com/questions/8023352/nhibernate-how-to-inject-dependency-on-an-entity)
   
 * EntityFramework
   * [Entity Framework 4 – Entity Dependency Injection](https://rogerjohansson.blog/2009/05/30/entity-framework-4-entity-dependency-injection/)
