@@ -17,6 +17,9 @@
 * EntityFramework
   * [Entity Framework 4 – Entity Dependency Injection](https://rogerjohansson.blog/2009/05/30/entity-framework-4-entity-dependency-injection/)
 
+# Process and Queue
+ * [HangFire](https://www.hangfire.io/)sss
+
 # Design Patterns
   * Refactory and Design Patterns
     * [refactoring.guru](https://refactoring.guru)
