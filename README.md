@@ -24,6 +24,7 @@
   * Refactory and Design Patterns
     * [refactoring.guru](https://refactoring.guru)
     * [Especification](https://en.wikipedia.org/wiki/Specification_pattern)
+    * [Build Fluent Class example](https://www.codeproject.com/Articles/640997/Fluent-interfaces-and-Method-Chaining-in-Csharp)
   
 # Windows Variables
 
