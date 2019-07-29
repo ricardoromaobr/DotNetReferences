@@ -26,6 +26,10 @@
     * [Especification](https://en.wikipedia.org/wiki/Specification_pattern)
     * [Build Fluent Class example](https://www.codeproject.com/Articles/640997/Fluent-interfaces-and-Method-Chaining-in-Csharp)
   
+# DotNet Templates
+  * [Templates](https://github.com/NetCoreTemplates)
+  
+
 # Windows Variables
 
 * Variables 
