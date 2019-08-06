@@ -49,3 +49,6 @@
 
 * Inno Setup
   * [Site Inno Setup](http://www.jrsoftware.org/isinfo.php)
+  
+# Rabbitmq Clusttering
+  *[Rabbitmq cluster settings](http://coding-insomnia.com/2013/02/23/clustering-rabbitmq-on-windows/)
