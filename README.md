@@ -52,3 +52,8 @@
   
 # Rabbitmq Clusttering
   * [Rabbitmq cluster settings](http://coding-insomnia.com/2013/02/23/clustering-rabbitmq-on-windows/)
+
+# Clone a specific git repository folder
+
+Para checout uma pasta do github utilize o comando svn.
+Para isso faça  $> svn export https://github.com/repositorio/trunk/[pasta]
