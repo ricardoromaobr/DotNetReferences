@@ -56,4 +56,4 @@
 # Clone a specific git repository folder
 
 Para checout uma pasta do github utilize o comando svn.
-Para isso faça  $> svn export https://github.com/repositorio/trunk/[pasta]
+Para isso faça  $> svn export https://github.com/repositorio/trunk/[pasta]  
