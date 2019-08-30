@@ -34,6 +34,10 @@
 
 * Variables 
   * [Windows variables](https://ss64.com/nt/syntax-variables.html)
+  
+# macOS things
+  * unsuported mac 
+    * [dosdude](http://dosdude1.com)
 
 # REDE
 
@@ -56,4 +60,5 @@
 # Clone a specific git repository folder
 
 Para checout uma pasta do github utilize o comando svn.
-Para isso faça  $> svn export https://github.com/repositorio/trunk/[pasta]  
+Para isso faça  
+$> svn export https://github.com/repositorio/trunk/[pasta]  
